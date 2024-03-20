@@ -1,0 +1,2 @@
+let MyCarCollection: string[] = ["CARS"]
+console.log(" There will be a day when i will drive a BMW M4 x kith.\n It is from the BMW M series collection.\n The BOLDEST SPORT COUPE and it have the quality of the sprint from 0 – 100 km/h (62 mph) takes just 3.9 seconds' ")
